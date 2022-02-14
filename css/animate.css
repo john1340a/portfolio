@@ -3310,8 +3310,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .typing {
-  width: 53ch;
-  animation: typing 5s steps(53), blink .5s step-end infinite alternate;
+  width: 58ch;
+  animation: typing 5s steps(58), blink .5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
   border-right: 1px solid;
