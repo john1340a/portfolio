@@ -740,6 +740,7 @@ Features List
     text-align: center;
     font-size: 25px;
     line-height: 90px;
+    font-weight: var(--fa-style,900);
 }
 .feature-icon i {
     color: #4e9ba3
